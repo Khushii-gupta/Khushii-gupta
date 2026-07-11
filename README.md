@@ -1,4 +1,13 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Khushi Gupta</h1>
+
+<h3 align="center">
+AI/ML Enthusiast • Full Stack Developer • Competitive Programmer
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=850&lines=AI+%26+Machine+Learning+Enthusiast;Building+Intelligent+Applications;Full+Stack+Developer;Problem+Solver+%7C+Competitive+Programmer;Python+%7C+Java+%7C+C%2B%2B;Always+Learning+New+Technologies+🚀"/>
+  
+</p>
 
 <!--
 **Khushii-gupta/Khushii-gupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
