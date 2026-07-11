@@ -42,7 +42,6 @@ Here are some ideas to get you started:
 
 </p>
 
-
 ## 🐍 Contribution Snake
 
 <p align="center">
