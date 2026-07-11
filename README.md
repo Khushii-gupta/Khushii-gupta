@@ -44,6 +44,98 @@ Here are some ideas to get you started:
 
 </p>
 
+
+## 🚀 Featured Projects
+
+### 🌾 Smart Crop Recommendation System
+A Machine Learning system that recommends the most suitable crops based on soil nutrients, rainfall, humidity, temperature, and pH values.
+
+**Tech Stack:** `Python` `Machine Learning` `Scikit-Learn` `Pandas` `NumPy`
+
+🔗 **Repository:**  
+https://github.com/Khushii-gupta/Smart-Crop-Recommendation-System
+
+---
+
+### 🏦 Open World Fraud Behaviour Detection in Banking
+A hybrid fraud detection framework using Isolation Forest, Autoencoder, and XGBoost to identify known and unknown fraudulent transactions.
+
+**Tech Stack:** `Python` `Machine Learning` `Isolation Forest` `Autoencoder` `XGBoost`
+
+🔗 **Repository:**  
+https://github.com/Khushii-gupta/Open-World-Fraud-Behaviour-Detection-in-Banking
+
+---
+
+### 📚 Book Review Platform
+A responsive web platform where users can browse, search, and review books.
+
+**Tech Stack:** `JavaScript` `HTML` `CSS`
+
+🔗 **Repository:**  
+https://github.com/Khushii-gupta/Book-Review-Platform
+
+---
+
+### 📝 SOEN – Smart Online Examination Network
+A web-based online examination system designed for secure test management and student assessment.
+
+**Tech Stack:** `HTML` `CSS` `JavaScript`
+
+🔗 **Repository:**  
+https://github.com/Khushii-gupta/soen
+
+---
+
+### 🏭 BHEL Project
+A Python-based data analysis and predictive modeling project developed using Jupyter Notebook.
+
+**Tech Stack:** `Python` `Jupyter Notebook`
+
+🔗 **Repository:**  
+https://github.com/Khushii-gupta/BHEL-Project
+
+---
+
+### 🛒 Amazon Clone
+A responsive clone of the Amazon homepage built using HTML and CSS.
+
+**Tech Stack:** `HTML` `CSS`
+
+🔗 **Repository:**  
+https://github.com/Khushii-gupta/amazon-clone
+
+---
+
+### ❌⭕ Tic-Tac-Toe
+An interactive browser-based Tic-Tac-Toe game with a responsive user interface.
+
+**Tech Stack:** `HTML` `CSS` `JavaScript`
+
+🔗 **Repository:**  
+https://github.com/Khushii-gupta/Tic-Tac-Toe
+
+---
+
+### ✊✋✌️ Rock-Paper-Scissors
+A fun browser-based Rock-Paper-Scissors game with interactive gameplay and score tracking.
+
+**Tech Stack:** `HTML` `CSS` `JavaScript`
+
+🔗 **Repository:**  
+https://github.com/Khushii-gupta/rock-paper-scissors
+
+---
+
+### 🌦️ Weather Forecast
+A weather forecasting web application that displays real-time weather information using a weather API.
+
+**Tech Stack:** `HTML` `CSS` `JavaScript`
+
+🔗 **Repository:**  
+https://github.com/Khushii-gupta/Weather-forecast
+
+
 ## 🐍 Contribution Snake
 
 <p align="center">
