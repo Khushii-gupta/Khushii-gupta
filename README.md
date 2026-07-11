@@ -25,7 +25,9 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats
 
-<p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Khushii-gupta&show_icons=true&theme=default&hide_border=true"/> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushii-gupta&layout=compact&theme=default&hide_border=true"/> </p> <p align="center"> <img width="70%" src="https://streak-stats.demolab.com?user=Khushii-gupta&theme=default&hide_border=true"/> </p>
+<p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Khushii-gupta&show_icons=true&theme=default&hide_border=true"/> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushii-gupta&layout=compact&theme=default&hide_border=true"/> </p> <p align="center"> <img width="70%" src="https://streak-stats.demolab.com?user=Khushii-gupta&theme=default&hide_border=true"/> 
+</p>
+
 ## 📈 Contribution Graph
 
 <p align="center">
