@@ -14,13 +14,55 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khushii-gupta&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Khushii-gupta&theme=tokyonight)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Khushii-gupta&show_icons=true&theme=default&hide_border=true"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khushii-gupta&layout=compact&theme=tokyonight)
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushii-gupta&layout=compact&theme=default&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Khushii-gupta&theme=default&hide_border=true"/>
+
+</p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Khushii-gupta&theme=github-light&hide_border=true"/>
+
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Khushii-gupta&theme=flat&no-frame=true&margin-w=15&margin-h=15"/>
+
+</p>
+
+## 📫 Connect with Me
+
+<p align="left">
+
+<a href="https://github.com/Khushii-gupta">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
 
 ## 💻 Skills
 
