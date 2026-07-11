@@ -27,15 +27,15 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Khushii-gupta&show_icons=true&theme=default&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Khushii-gupta&show_icons=true&theme=github_light&hide_border=true&cache_seconds=1800"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushii-gupta&layout=compact&theme=default&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushii-gupta&layout=compact&theme=github_light&hide_border=true&cache_seconds=1800"/>
 
 </p>
 
 <p align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Khushii-gupta&theme=default&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Khushii-gupta&theme=github-light&hide_border=true"/>
 
 </p>
 
