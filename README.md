@@ -95,6 +95,7 @@ Here are some ideas to get you started:
 </a>
 
 </p>
+-------
 
 <h3 align="center">
 ⭐ Thanks for visiting my profile! ⭐
