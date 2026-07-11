@@ -96,4 +96,7 @@ Here are some ideas to get you started:
 
 </p>
 
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
 
